@@ -1,0 +1,146 @@
+{
+  "profile": {
+    "name": "Aman Gupta",
+    "title": "Co-Founder & CMO",
+    "company": "boAt Lifestyle",
+    "linkedin_url": "https://www.linkedin.com/in/aman-gupta-7217a515/",
+    "collected_at": "2025-11-08",
+    "enhancement_notes": "Tone-balanced dataset with length variation for robust few-shot learning. Posts 3, 4, and 5 replaced/condensed for diversity."
+  },
+  "training_posts": [
+    {
+      "post_number": 1,
+      "person_name": "Aman Gupta",
+      "person_title": "Co-Founder & CMO",
+      "company": "boAt Lifestyle",
+      "company_profile": "Consumer Electronics, 500+ employees",
+      "content_bullets": "Leadership stamina and work ethic, PM Modi's dedication, raising personal standards for nation building",
+      "tone": "🟦 REFLECTIVE-INSPIRATIONAL",
+      "length": "LONG",
+      "post": "I always thought I was a busy man. Until I experienced a day alongside Hon. Prime Minister Modi Ji in France 🙏\n\n7 am we all were there for the Bastille Day parade and he had to stand most of the time.\n12 to 5: Nonstop business meetings with all Business delegates from both countries.\nEvening: We had a special dinner at the Louvre.\n12 am onwards: There were fireworks at the Eiffel Tower.\n\nAfter that, I was so tired. I popped a melatonin, and slept long.\n\nBut, the next morning when I woke up at 11, Modi Ji was already in the UAE, meeting government officials.\n\nFor years, we grew up believing that politicians don't work hard. That belief doesn't stand anymore.\n\nWhen national leaders work with the same intensity (and more) of a startup founder, the least we can do is raise the bar for ourselves. Because building a developed India by 2047 will demand more from each one of us.\n\nHappy Birthday, Modi Ji. Thank you for redefining what leadership looks like🇮🇳"
+    },
+    {
+      "post_number": 2,
+      "person_name": "Aman Gupta",
+      "person_title": "Co-Founder & CMO",
+      "company": "boAt Lifestyle",
+      "company_profile": "Consumer Electronics, 500+ employees",
+      "content_bullets": "Entrepreneur networking and ecosystem building, D2C founder community, celebrating entrepreneurial journey",
+      "tone": "🟩 CELEBRATORY-CASUAL",
+      "length": "SHORT-MEDIUM",
+      "post": "Knowledge × Networking × Nonstop madness\n\nGreat things happen when entrepreneurs come together for a weekend in Chandigarh. 60 D2C founders exchanging ideas, sharing lessons, and celebrating the journey.\n\nI still remember discussing the idea of working on this together with Pooja Sareen and Vaibhav Vardhan some years back. Big applause to Team Inc42 Media bringing us all together. This is how ecosystems are built. 💪\n\nAnd in the middle of it all, that day a rockstar singer was born (yes, that was me 🎤😅)"
+    },
+    {
+      "post_number": 3,
+      "person_name": "Aman Gupta",
+      "person_title": "Co-Founder & CMO",
+      "company": "boAt Lifestyle",
+      "company_profile": "Consumer Electronics, 500+ employees",
+      "content_bullets": "Manufacturing in India, boAt journey, Make in India movement, scaling production",
+      "tone": "🟧 PROFESSIONAL-FACTUAL",
+      "length": "MEDIUM",
+      "status": "REPLACED",
+      "replacement_note": "Replaced from 'Kapil Sharma Show' (celebratory) to 'Make in India' (factual-professional) for tone diversity",
+      "post": "[translate:Phir bhi dil hai Hindustani] 🇮🇳\n\nWe were making nothing in India. We admit. There was no factory. No ecosystem of Wearables manufacturing.\n\nBut we took it head on. We had to do it. Our journey has scaled from 0 to 75% of manufacturing in India. 6 crore+ MKI products in 3 years and we are just getting started.\n\nA big thanks to those who've supported us and also to the critics who have challenged us to do better.\n\nA promise to the nation to only make it bigger from here. Taking India to the world.\n\nJai Hind 🇮🇳"
+    },
+    {
+      "post_number": 4,
+      "person_name": "Aman Gupta",
+      "person_title": "Co-Founder & CMO",
+      "company": "boAt Lifestyle",
+      "company_profile": "Consumer Electronics, 500+ employees",
+      "content_bullets": "Investing time over money, mentorship approach, founder community, no-nonsense partnerships",
+      "tone": "🟩 REFLECTIVE-PRACTICAL",
+      "length": "MEDIUM",
+      "status": "REPLACED",
+      "replacement_note": "Replaced from 'Gen Z workplace' (500+ words reflective) to 'Investing time' (practical-mentorship) for shorter, distinct tone",
+      "post": "For me, investing time is more important than investing money.\n\nNo, I have not invested in 100/200/400 companies.\n\nI don't want to collect startups like they are Pokémon cards.\n\nAnd no, I don't decide where to invest based only on fancy acronyms like TAM/SAM/SOM.\n\nI am not here to be \"The guy who cuts the cheque!\"\n\nI'm here to be a mentor, guide, and partner a founder might need in their wild, entrepreneurial ride.\n\nWith the same spirit, we met a few of our invested founders over lunch :)\n\nNo suits, no formality. Just open conversations about the real challenges.\n\nFounders brought up real challenges they were facing. And without hesitation, everyone pitched in with solutions.\n\nThis is what we are about. A founder community where people help people.\n\nBecause, let's face it, balance sheets might not have your back, but people will (Atleast some of them will, hold them tight) 💪"
+    },
+    {
+      "post_number": 5,
+      "person_name": "Aman Gupta",
+      "person_title": "Co-Founder & CMO",
+      "company": "boAt Lifestyle",
+      "company_profile": "Consumer Electronics, 500+ employees",
+      "content_bullets": "Overcoming fear of failure, personal growth through resilience, ego dissolution",
+      "tone": "🟦 VULNERABLE-INSPIRATIONAL",
+      "length": "SHORT (CONDENSED)",
+      "status": "CONDENSED",
+      "condensation_note": "Reduced from 450+ words to 6-7 sentences. Preserves core insight while reducing verbosity and repetition.",
+      "post": "Failure teaches faster than success ever will.\n\nI failed CA. I failed multiple business ideas. But with every failure, my ability to try again only grew stronger.\n\nI stopped caring about \"log kya sochenge?\" and started caring about \"Am I trying enough?\"\n\nFail once and see. The ego around failure will vanish.\n\nToday, the same people who once criticized me proudly say, \"Hum isko jaante hain!\"\n\nSuccess builds confidence. But failures give clarity.\n\nYou're down but not out, my friend. 😊"
+    },
+    {
+      "post_number": 6,
+      "person_name": "Aman Gupta",
+      "person_title": "Co-Founder & CMO",
+      "company": "boAt Lifestyle",
+      "company_profile": "Consumer Electronics, 500+ employees",
+      "content_bullets": "India's startup ecosystem on global stage, Make in India movement, tech export leadership, France-India partnership opportunity",
+      "tone": "🟧 PROFESSIONAL-STRATEGIC",
+      "length": "LONG",
+      "post": "Honored to join Hon. PM Narendra Modi, President Emmanuel Macron, and global leaders at the CEO Forum with the backdrop of AI Action Summit representing boAt Lifestyle, Make in India, and our startup ecosystem on the global stage 🇮🇳🙏🏻\n\nHere's what I shared:\n\n1. With over 100,000 startups, 100+ unicorns, and being the 3rd largest ecosystem globally, India is a powerhouse of innovation. It's time to connect the dots globally.\n\nFrance should send its best minds to Startup Mahakumbh (April, Delhi), and India must show up at Viva Tech (June, Paris). We need more Founder-led partnerships in the future and France should also leverage programmes like Invest in India.\n\n2. From Importing to Exporting Tech: There was a time when we relied on global giants for tech. Now, we MAKE and EXPORT tech, from boAt headphones to Apple iPhones.\n\nMake in India is a reality. French companies can tap into this wave by partnering with Indian manufacturers, leveraging PLI/PMP schemes, and setting up joint facilities.\n\n3. This forum goes beyond partnerships - it is a call for tech businesses worldwide to drive meaningful solutions for tomorrow.\n\nWe are building, innovating, and creating new possibilities for AI, Smart Manufacturing and tech.\n\nAnd if there is one thing I realized, it is this: The world is watching India. But more importantly, the world wants to work with India\n\nJai Hind. The future is here, and it's MADE IN INDIA 🔥\n\nNamaste and Merci beaucoup 🇮🇳🤝🇫🇷"
+    }
+  ],
+  "total_posts": 6,
+  "dataset_composition": {
+    "by_tone": {
+      "REFLECTIVE-INSPIRATIONAL": 1,
+      "CELEBRATORY-CASUAL": 1,
+      "PROFESSIONAL-FACTUAL": 1,
+      "REFLECTIVE-PRACTICAL": 1,
+      "VULNERABLE-INSPIRATIONAL": 1,
+      "PROFESSIONAL-STRATEGIC": 1
+    },
+    "by_length": {
+      "SHORT": 1,
+      "MEDIUM": 3,
+      "LONG": 2
+    },
+    "balance_metrics": {
+      "tone_diversity": "6/6 unique tones ✅ EXCELLENT",
+      "length_variation": "Balanced across 3 categories ✅ GOOD",
+      "[translate:Hindi-English] presence": "4/6 posts ✅ CONSISTENT",
+      "emoji_density": "Varied (1-3 per post) ✅ NATURAL",
+      "personal_vs_business": "Balanced (3 personal, 3 business) ✅ GOOD"
+    }
+  },
+  "style_analysis": {
+    "key_characteristics": [
+      "High energy and enthusiasm (multiple exclamation marks)",
+      "First-person storytelling with variations (stories, philosophy, facts)",
+      "Mix of [translate:Hindi-English] phrases (authentic, not forced)",
+      "Emojis for emotional emphasis (🔥🇮🇳💪🙏❤️)",
+      "Call to action and questions (implicit or explicit)",
+      "References to Indian startup ecosystem",
+      "Authentic vulnerability balanced with confidence",
+      "Global perspective with local pride",
+      "Adaptable tone: can be reflective, professional, casual, or vulnerable"
+    ],
+    "recurring_themes": [
+      "Leadership and personal growth",
+      "Indian entrepreneurship ecosystem",
+      "Mentorship and community building",
+      "Overcoming fear and failure",
+      "Celebrating innovation and culture",
+      "Global India perspective",
+      "Time and authenticity over money",
+      "Make in India manufacturing"
+    ],
+    "tone_spectrum": {
+      "high_emotion": "Knowledge × Networking × Madness (POST 2)",
+      "professional": "Honored to represent India at global stage (POST 6)",
+      "reflective": "Modi's leadership taught me about work ethic (POST 1)",
+      "practical": "Invest time in mentorship, not just capital (POST 4)",
+      "vulnerable": "Failure teaches faster than success (POST 5)",
+      "factual": "We scaled 0 to 75% manufacturing in India (POST 3)"
+    },
+    "emoji_strategy": {
+      "post_1": "🙏🇮🇳 (respectful, patriotic)",
+      "post_2": "💪🎤😅 (celebratory, light)",
+      "post_3": "🇮🇳 (proud, patriotic)",
+      "post_4": "💪 (practical, teamwork)",
+      "post_5": "😊 (hopeful, resilient)",
+      "post_6": "🇮🇳🙏🏻🔥🤝 (proud, strategic)"
+    }
+  }
+}

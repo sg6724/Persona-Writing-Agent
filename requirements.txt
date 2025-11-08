@@ -1,0 +1,5 @@
+dspy-ai
+google-generativeai
+python-dotenv
+requests
+
