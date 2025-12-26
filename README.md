@@ -11,6 +11,31 @@ This is **not** a general-purpose LinkedIn post generator. It's a **person-speci
 
 ---
 
+## 🧠 What is DSPy?
+
+**DSPy** (Declarative Self-improving Language Programs) is a framework developed by **Stanford NLP** that brings a programmatic approach to working with Large Language Models.
+
+### Key Differences from Traditional Prompting:
+
+| Traditional Prompting | DSPy Approach |
+|----------------------|---------------|
+| Manual prompt engineering | Automated optimization |
+| Trial-and-error refinement | Systematic compilation |
+| Static prompt templates | Self-improving programs |
+| Hard to reproduce results | Consistent, optimized outputs |
+
+### Why DSPy for This Project?
+
+Instead of manually crafting prompts to mimic Aman Gupta's style, DSPy:
+- **Learns** from training examples (6 curated posts)
+- **Optimizes** the prompt structure automatically using algorithms
+- **Evaluates** outputs against persona-specific metrics
+- **Compiles** an optimized model that consistently generates authentic posts
+
+Think of DSPy as a **compiler for LLM programs** - you define what you want (persona-based writing), provide training data, and DSPy figures out the best way to achieve it.
+
+---
+
 ## 🚀 Quick Start
 
 ### 1. Install Dependencies
